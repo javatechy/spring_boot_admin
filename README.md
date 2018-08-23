@@ -19,4 +19,5 @@
 
 ```
 spring.boot.admin.url: http://localhost:8080  
+spring.boot.admin.api-path: instances
 ```
