@@ -1,4 +1,4 @@
-# spring boot admin project for your applcaiton running on spring 1.5.X 
+# spring boot admin project for your applcaiton running on spring 2.X  and 1.X 
 
 
 #### To intergrate spring boot admin project with you project
@@ -21,3 +21,5 @@
 spring.boot.admin.url: http://localhost:8080  
 spring.boot.admin.api-path: instances
 ```
+
+
