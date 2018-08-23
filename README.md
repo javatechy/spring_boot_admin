@@ -1,4 +1,4 @@
-# spring_boot_admin
+# spring boot admin project for your applcaiton running on spring 1.5.X 
 
 
 #### To intergrate spring boot admin project with you project
