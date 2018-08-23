@@ -23,3 +23,9 @@ spring.boot.admin.api-path: instances
 ```
 
 
+REf:
+
+https://github.com/codecentric/spring-boot-admin/issues/802
+http://codecentric.github.io/spring-boot-admin/current/#monitoring-spring-boot-1.5.x
+https://github.com/codecentric/spring-boot-admin/blob/master/README.md
+
